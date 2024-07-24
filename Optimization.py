@@ -1,27 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Oct 27 00:17:01 2023
-
-@author: Dell
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Oct 21 16:01:02 2023
-
-@author: Dell
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Oct 21 14:56:03 2023
-
-@author: Dell
-"""
-
-
-
-
 import numpy as np
 from control.matlab import *
 import sympy as sp
