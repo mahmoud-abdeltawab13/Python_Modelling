@@ -1,25 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Oct 21 16:01:02 2023
-
-@author: Dell
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Oct 21 14:56:03 2023
-
-@author: Dell
-"""
-
-
-#omega_limits=[2*np.pi*12E3,2*np.pi*20E6;]
-#omega_limits=[1E3,1E8;]
-
-
-
-
-
 import numpy as np
 import matplotlib.pyplot as plt
 from control.matlab import *
